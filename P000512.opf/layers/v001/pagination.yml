@@ -1,4 +1,102 @@
 id: 5eab216c8d8b4150a759a5dafb6f9a51
 annotation_type: pagination
 revision: '00001'
-annotations: {}
+annotations:
+  b74452ea4a7445c98745026138324623:
+    page_index: 1a
+    page_info: null
+    reference: '61400001'
+    span:
+      start: 0
+      end: 878
+  8f5562dc960548dea26898519bbd8fb3:
+    page_index: 1b
+    page_info: null
+    reference: '61400002'
+    span:
+      start: 883
+      end: 1745
+  3585b210a38640aa93d6353d16342e03:
+    page_index: 2a
+    page_info: null
+    reference: '61400003'
+    span:
+      start: 1750
+      end: 6000
+  4b4f1eea0d09477b8aa7f9e7dc81aa4d:
+    page_index: 2b
+    page_info: null
+    reference: '61400004'
+    span:
+      start: 6005
+      end: 6414
+  3421bceaa7244b94b689384481ba6e92:
+    page_index: 3b
+    page_info: null
+    reference: '61400006'
+    span:
+      start: 6419
+      end: 7898
+  13ef95228761485ea4d400fad1cde17f:
+    page_index: 4b
+    page_info: null
+    reference: '61400008'
+    span:
+      start: 7903
+      end: 8581
+  1b9a6ee333d344c8a94e20fcf2838d99:
+    page_index: 5a
+    page_info: null
+    reference: '61400009'
+    span:
+      start: 8586
+      end: 9268
+  43782be5f28645f18208a6f5c9e78fbc:
+    page_index: 5b
+    page_info: null
+    reference: '61400010'
+    span:
+      start: 9273
+      end: 9910
+  6aa5a8431bbe49e1bc24ea64720e53c4:
+    page_index: 6a
+    page_info: null
+    reference: '61400011'
+    span:
+      start: 9915
+      end: 10603
+  73178cb66a894932a3501fe42b66b40f:
+    page_index: 7a
+    page_info: null
+    reference: '61400013'
+    span:
+      start: 10608
+      end: 11302
+  0164cc3800154ebab2e32f9feae9ba44:
+    page_index: 7b
+    page_info: null
+    reference: '61400014'
+    span:
+      start: 11307
+      end: 12031
+  908441fde322409dbeeb1c13203a80f1:
+    page_index: 8a
+    page_info: null
+    reference: '61400015'
+    span:
+      start: 12036
+      end: 12554
+  fb795f182f894f6eb60cd92cd55c992e:
+    page_index: 8b
+    page_info: null
+    reference: '61400016'
+    span:
+      start: 12559
+      end: 13024
+  53babc93bf4b4016a97074f16296399d:
+    page_index: 9b
+    page_info: null
+    reference: '61400018'
+    span:
+      start: 13029
+      end: 13116
